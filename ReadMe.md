@@ -1,4 +1,7 @@
 # Khoá học Spring Boot Microservice / Spring Cloud
+Giảng viên:
+- Trịnh Minh Cường, cuong@techmaster.vn, 0902209011
+- Bạn nào tìm được page này, code ví dụ mẫu đẹp - dạy được một số buổi thì liên hệ với mình với thông tin mình ghi rõ ở trên nhé.
 
 Mô tả khoá học:
 - [Outline thiết kế ban đầu](SpringBootMicroservice.pdf)
