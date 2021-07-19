@@ -1,15 +1,15 @@
-# Khoá học Spring Boot Microservice cho công ty Hyperlogy
+# Khoá học Spring Boot Microservice / Spring Cloud
 
 Mô tả khoá học:
-- Ưu tiên cho dev Java tuy nhiên dev C# back end cũng có thể hiểu.
-- Học trực tuyến một tuần hai buổi. Mỗi buổi 120 phút. Cứ 30 phút nghỉ giải lao 3 phút
-- Không giao bài tập lập trình, vì học viên chủ động áp dụng kiến thức luôn vào dự án. Giảng viên cũng không còn thời gian để chấm bài tập.
-- Một số chủ đề khó, giảng viên chỉ dạy 1 tuần 1 buổi.
-- Sau buổi học thứ 12: học viên không hài lòng nội dung kiến thức, sư phạm của giảng viên hoặc cảm thấy tự học được -> Dừng lớp học. Minh có nhiều dự án mà.  
 - [Outline thiết kế ban đầu](SpringBootMicroservice.pdf)
+- Ưu tiên cho dev Java tuy nhiên dev back end ngôn ngữ khác cũng có thể hiểu.
+- Học trực tuyến một tuần hai buổi. Mỗi buổi 120 phút. Cứ 30 phút nghỉ giải lao 3 phút
+- **Không giao bài tập lập trình**, vì học viên chủ động áp dụng kiến thức luôn vào dự án. Giảng viên cũng không còn thời gian để chấm bài tập.
+- Một số chủ đề khó, giảng viên chỉ dạy 1 tuần 1 buổi.
+- Sau buổi học thứ 12: học viên không hài lòng nội dung kiến thức, sư phạm của giảng viên hoặc cảm thấy tự học được -> Dừng lớp học. Mình có nhiều dự án không kịp xử lý.
 - Đây là một khoá học rút ngắn thời gian, công sức tự học, mày mò của học viên. Code minh hoạ dễ hiểu, trực quan, không phải code nào cũng có chất lượng production ready.
 
-## 01:Triển khai Spring Boot REST API
+## 01: Triển khai Spring Boot REST API
 - Cấu trúc thư mục dự án Spring Boot
 - Multilayer Architecture: View - Controller - Service - Repository
 - Model View Controller
