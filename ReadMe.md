@@ -2,9 +2,9 @@
 
 [Outline thiết kế ban đầu](SpringBootMicroservice.pdf)
 
-## 01: Triển khai Spring Boot REST API
+## Triển khai Spring Boot REST API
 - Cấu trúc thư mục dự án Spring Boot
-- Multilayer Architecture
+- Multilayer Architecture: View - Controller - Service - Repository
 - Model View Controller
 - Annotations: @Controller, @RestController, @Service, @Repository
 - @PathVariable vs @PathParameter
@@ -13,7 +13,7 @@
 - So sánh giữa Server Side Render vs Client Side Render
 - @CORS dự án Vue.js kết nối 
 
-## 02: Java Collection - Java Stream API
+## Java Collection - Java Stream API
 So sánh công dụng, trường hợp sử dụng
 - List: ArrayList, Vector
 - Set: HashSet, LinkedHashSet, TreeSet
@@ -28,7 +28,56 @@ Tham khảo:
 - [18 Java Collections and Generics Best Practices](https://www.codejava.net/java-core/collections/18-java-collections-and-generics-best-practices)
 
 
-## 03: 
+## Chữa bài tập phân tích dữ liệu bằng Java Stream
+
+
+## Dependency Injection
+- Application Context
+- Component Scanning
+- Component vs Bean
+- @Autowired, @Configuration, @Bean, @Order, @Qualifier, @Lazy, @Prototype
+- 3 phương pháp DI:
+  - Constructor Injection (khuyến cáo)
+  - Setter Injection
+  - Field Injection (dễ)
+
+
+
+## SOLID Patterns By Example
+- Single Responsibility Principle
+- Open for Extension, Close for Modification Principle
+- Liskov Substitution Principle
+- Interface Segeration Principle
+- Dependency Injection
+
+## Design Patterns #1 : Creational Patterns
+- Abstract Factory
+- Builder
+- Adapter
+- Factory Method
+- Prototype
+- Singleton
+
+## Design Patterns #2 : Structural Patterns
+- Adapter
+- Bridge
+- Composite
+- Decorator
+- Facade
+- Flyweight
+- Proxy
+
+## Design Patterns #3 : Behavioral Patterns
+- Chain of Responsibility
+- Command
+- Iterator
+- Mediator
+- Observer
+- Memento
+- State
+- Template method
+- Strategy
+- Visitor
 
 ## Distributed Tracing
 
